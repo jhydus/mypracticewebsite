@@ -1,0 +1,49 @@
+.banner{
+	margin-top: 60px;
+	/*margin-left: 30px;*/
+	background-color: #000;
+	
+}
+
+.move{
+	text-align: center;
+	background-color: #ffff33;
+	/*border-radius: 20px;*/
+	
+}
+
+.move1{
+	text-align: center;
+	background-color: #333399;
+	color: white;
+	
+}
+
+.move2{
+	text-align: center;
+	background-color: #00b33c;
+	
+}
+
+.locat{
+	float: right;
+}
+
+.loo{
+	border-radius: 20px;
+	background-color: #8080ff;
+	color: white;
+	
+}
+
+.loo1{
+	border-radius: 20px;
+	background-color: #b30000;#7a7a52
+    color: white;
+}
+
+.loo2{
+	border-radius: 20px;
+	background-color: #7a7a52;
+    color: white;
+}
